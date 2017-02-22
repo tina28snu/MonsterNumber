@@ -1,0 +1,12 @@
+C:\Curs\Csharp\MonsterNumber\MonsterNumber\bin\Debug\MonsterNumber.exe.config
+C:\Curs\Csharp\MonsterNumber\MonsterNumber\bin\Debug\MonsterNumber.exe
+C:\Curs\Csharp\MonsterNumber\MonsterNumber\bin\Debug\MonsterNumber.pdb
+C:\Curs\Csharp\MonsterNumber\MonsterNumber\obj\Debug\MonsterNumber.csprojResolveAssemblyReference.cache
+C:\Curs\Csharp\MonsterNumber\MonsterNumber\obj\Debug\MonsterNumber.exe
+C:\Curs\Csharp\MonsterNumber\MonsterNumber\obj\Debug\MonsterNumber.pdb
+C:\Curs\Csharp\Initiation\MonsterNumber\MonsterNumber\bin\Debug\MonsterNumber.exe.config
+C:\Curs\Csharp\Initiation\MonsterNumber\MonsterNumber\obj\Debug\MonsterNumber.exe
+C:\Curs\Csharp\Initiation\MonsterNumber\MonsterNumber\obj\Debug\MonsterNumber.pdb
+C:\Curs\Csharp\Initiation\MonsterNumber\MonsterNumber\bin\Debug\MonsterNumber.exe
+C:\Curs\Csharp\Initiation\MonsterNumber\MonsterNumber\bin\Debug\MonsterNumber.pdb
+C:\Curs\Csharp\Initiation\MonsterNumber\MonsterNumber\obj\Debug\MonsterNumber.csprojResolveAssemblyReference.cache
